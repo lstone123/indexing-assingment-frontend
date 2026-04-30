@@ -28,7 +28,7 @@ This is a frontend search experience built using Algolia InstantSearch. It conne
 
 ## 🔗 Live Demo
 
-https://lstone123.github.io/indexing-assingment-frontend/
+https://lstone123.github.io/indexing-assignment-frontend/
 
 ---
 
