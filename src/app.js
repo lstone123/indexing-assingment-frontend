@@ -34,9 +34,6 @@ search.addWidgets([
           <div class="hit-description">
             ${components.Highlight({ hit, attribute: "description" })}
           </div>
-          <div class="hit-rating">
-            ${components.Highlight({ hit, attribute: "rating" })}
-          </div>
           <div class="hit-price">$${hit.price}</div>
         </div>
       `,
